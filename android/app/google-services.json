@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "922842256919",
+    "project_id": "wheelsmasail-f77f3",
+    "storage_bucket": "wheelsmasail-f77f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922842256919:android:16242cca5bb3a9b10e6e52",
+        "android_client_info": {
+          "package_name": "com.example.wheelsmasail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922842256919-0751ltja2fembec6t528oov2fdu8ldd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wheelsmasail",
+            "certificate_hash": "f098c437f6138f8a62e0aebadb0297125612d3b0"
+          }
+        },
+        {
+          "client_id": "922842256919-9joe4i5muoe38tg9ujo9uvrjp57rs28d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcXccP_ve3DAJdoYgKrhOMQ6QB-5zG2I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922842256919-9joe4i5muoe38tg9ujo9uvrjp57rs28d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922842256919-kksssofib17lmjc6jkpfpl7keiblve28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wheelsmasail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
